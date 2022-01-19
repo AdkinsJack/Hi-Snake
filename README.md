@@ -15,7 +15,9 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/adkinsj/Hi-Snake/main/hi-snake.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adkinsj/Hi-Snake/main/hi-snake.gif" alt="animated" />
+</p>
 
 ## Key Features
 
