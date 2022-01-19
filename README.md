@@ -52,4 +52,4 @@ MIT
 ---
 
 > [adkinsj.com](https://www.adkinsj.com) &nbsp;&middot;&nbsp;
-> GitHub [@adkinsj](https://github.com/adkinsj) &nbsp;&middot;&nbsp;
+> GitHub [@adkinsj](https://github.com/adkinsj)
