@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A desktop version of the classic snake game using <a href="https://www.pygame.org" target="_blank">Pygame</a>.</h4>
+<h4 align="center">A desktop version of the classic snake game using <a href="https://www.pygame.org" target="_blank">PyGame</a>.</h4>
 
 
 <p align="center">
