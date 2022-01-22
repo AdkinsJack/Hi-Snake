@@ -43,6 +43,7 @@ Singleplayer - Run main.py
 
 ## You may also like...
 
+- [adkinsjack.com](https://github.com/AdkinsJack/adkinsjack.com) - My personal website.
 - [Algorithm Visualizer](https://github.com/adkinsj/Algorithm-Visualizer) - An algorithm visualizer app in Python
 
 ## License
