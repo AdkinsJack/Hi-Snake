@@ -31,7 +31,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/AdkinsJack/Hi-Snake
 ```
 
 Once you are set up:
